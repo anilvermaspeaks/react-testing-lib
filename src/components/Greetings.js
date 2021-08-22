@@ -1,4 +1,3 @@
-import { buildQueries } from "@testing-library/dom";
 import { useState } from "react";
 import Output from './output';
 const Greeting = () => {
